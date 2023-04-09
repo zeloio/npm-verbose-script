@@ -1,0 +1,11 @@
+{
+  "name": "npm-verbose-script",
+  "version": "1.0.0",
+  "description": "Create interactive ui from package.json scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Chen",
+  "license": "ISC"
+}
